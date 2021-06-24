@@ -4,6 +4,6 @@ Things I'm good at are Java and Spring Boot. Other I know cursorily, more or les
 
 
 </br >
-<img src="https://github.com/Gandalfel/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+<img src="https://github.com/Gandalfel/Swipest/blob/master/images/codeStats.svg" alt="Alternative Text"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gandalfel)
